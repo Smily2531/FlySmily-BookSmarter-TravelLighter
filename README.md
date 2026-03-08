@@ -11,7 +11,7 @@
 ---
 
 ## 🔗 Demo & Preview
-📺 **[Watch Project Demo on Google Drive](https://drive.google.com/file/d/1_A2jGVhcZXmjomic0ts-w1IdkbxrvQwL/view?usp=sharing)**
+📺 **[Watch Smily's Project Preview](https://drive.google.com/file/d/1_A2jGVhcZXmjomic0ts-w1IdkbxrvQwL/view?usp=sharing)**
 
 ---
 
@@ -86,7 +86,9 @@ FlySmily addresses the complexities of flight management by providing a multi-ro
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Smily's Project Preview
+Explore the detailed [Visual Showcase & User Journey](PREVIEW.md) by Smily.
+
 ![FlySmily Landing Page](Project%20files/client/src/assets/HomeBg.png)
 
 ---

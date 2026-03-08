@@ -1,4 +1,4 @@
-# 🖼️ FlySmily - Visual Showcase & Preview
+# 🖼️ FlySmily - Visual Showcase & Preview by Smily
 
 A comprehensive guide to the **FlySmily** platform's visual identity, features, and user journey.
 
@@ -41,7 +41,7 @@ Admins can easily add and update flight information.
 ---
 
 ## 📽️ Video Demonstration
-📺 **[Click here to watch the full project walkthrough](https://drive.google.com/file/d/1_A2jGVhcZXmjomic0ts-w1IdkbxrvQwL/view?usp=sharing)**
+📺 **[Click here to watch Smily's full project walkthrough](https://drive.google.com/file/d/1_A2jGVhcZXmjomic0ts-w1IdkbxrvQwL/view?usp=sharing)**
 
 ---
 
